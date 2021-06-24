@@ -276,12 +276,12 @@ function getStyle() {
     
     mwc-button.juke-toggle[raised] {
         --mdc-theme-primary: var(--primary-color);
-        background-color: #FF0000;
+        background-color: var(--primary-color);
         color: var(--text-primary-color);
     }
     
     paper-tabs {
-        background-color: var(--primary-color);
+        background-color: #FF0000;
         color: var(--text-primary-color);
         --paper-tabs-selection-bar-color: var(--text-primary-color, #FFF);
     }
