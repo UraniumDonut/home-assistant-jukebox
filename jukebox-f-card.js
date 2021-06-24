@@ -1,4 +1,4 @@
-class JukeboxCard extends HTMLElement {
+class JukeboxFCard extends HTMLElement {
     set hass(hass) {
         if (!this.content) {
             this._hassObservers = [];
@@ -28,7 +28,7 @@ class JukeboxCard extends HTMLElement {
 
         this.config.entities.forEach(entityId => {
             if (!hass.states[entityId]) {
-                console.log('Jukebox: No State for entity', entityId);
+                console.log('Jukeboxf: No State for entity', entityId);
                 return;
             }
             this._tabs.appendChild(this.buildSpeakerSwitch(entityId, hass));
@@ -293,4 +293,4 @@ function getStyle() {
     return frag;
 }
 
-customElements.define('jukebox-f-card', JukeboxCard);
+customElements.define('jukeboxf-card', JukeboxFCard);
