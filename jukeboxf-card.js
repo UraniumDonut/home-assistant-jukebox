@@ -281,7 +281,7 @@ function getStyle() {
     }
     
     paper-tabs {
-        background-color: var(--primary-color);
+        background-color: var(#FF0000);
         color: var(--text-primary-color);
         --paper-tabs-selection-bar-color: var(--text-primary-color, #FFF);
     }
