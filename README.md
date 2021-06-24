@@ -1,4 +1,7 @@
-# Jukebox Card for Home-Assistant
+# Jukebox Card for Home-Assistant funky edition
+
+##THIS IS THE SAME AS THE REGULAR HOME ASSISTANT JUKEBOX BUT WITH EDITS FOR THE "SOFT UI" THEME
+###They did everything, I added the funky
 
 This is a media player UI for Home-Assistant leveraging the potential of the excellent new
 [Lovelace UI.](https://www.home-assistant.io/lovelace/)
