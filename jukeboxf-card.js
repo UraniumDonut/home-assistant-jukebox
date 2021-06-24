@@ -279,7 +279,7 @@ function getStyle() {
         background-color: var(--primary-color);
         color: var(--text-primary-color);
     }
-    
+    //the important one
     paper-tabs {
         background-color: #FF0000;
         color: var(--text-primary-color);
