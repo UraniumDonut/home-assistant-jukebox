@@ -271,7 +271,7 @@ function getStyle() {
     }
     
     mwc-button.juke-toggle {
-        --mdc-theme-primary: var(--text-primary-color);
+        --mdc-theme-primary: var(--primary-text-color);
     }
     
     mwc-button.juke-toggle[raised] {
@@ -281,7 +281,7 @@ function getStyle() {
     }
     
     paper-tabs {
-        background-color: #FF0000;
+        background-color: var(--primary-color);
         color: var(--text-primary-color);
         --paper-tabs-selection-bar-color: var(--text-primary-color, #FFF);
     }
