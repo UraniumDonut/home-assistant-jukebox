@@ -16,6 +16,8 @@ to some *Frozen*, while you're Jazzing in the Kitchen. Volume-Level is handled s
 ![alt text](https://github.com/lukx/home-assistant-jukebox/blob/master/screenshot.png?raw=true "See the jukebox in action")
 
 ## Acknowledgement
+Like literally everyone. I edited a single line and it took me 30 tries to make it right...
+
 Apart from the home-assistant project, I need to say thanks to User [Bob_NL](https://community.home-assistant.io/u/Bob_NL)
 who made his evergreen [Chromecast Radio](https://community.home-assistant.io/t/chromecast-radio-with-station-and-player-selection/12732)
 available to all of us in the Home-Assistant forums. This jukebox is heavily deriving from the great work of all the
