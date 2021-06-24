@@ -271,7 +271,7 @@ function getStyle() {
     }
     
     mwc-button.juke-toggle {
-        --mdc-theme-primary: var(--primary-color);
+        --mdc-theme-primary: var(--text-primary-color);
     }
     
     mwc-button.juke-toggle[raised] {
